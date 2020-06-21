@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blind Test</string>
+    <string name="IVlogo">logo</string>
+    <string name="ETemail_username">Email ou nom d\'utilisateur</string>
+    <string name="ETpassword">Mot de passe</string>
+    <string name="Blogin">Connexion</string>
+    <string name="TVforgot_password">Mot de passe oublié ?</string>
+    <string name="TVno_account">Vous n\'avez pas de compte ?</string>
+    <string name="TVsign_up">Inscrivez-vous.</string>
+    <string name="Tsuccesful_connection">Connexion réussie !</string>
+    <string name="Twrong_username_password">Identifiant ou mot de passe incorrect !</string>
+    <string name="Tno_account">Vous n\'avez pas de compte !</string>
+    <string name="Temail_sent">Email envoyé !</string>
+    <string name="Temail_does_not_exist">L\'adresse mail n\'existe pas !</string>
+    <string name="Eempty_field">Ce champ ne doit pas être vide.</string>
+    <string name="ETfullname">Nom Complet</string>
+    <string name="ETusername">Nom d\'utilisateur</string>
+    <string name="ETemail">Email</string>
+    <string name="Bsign_up">S\'inscrire</string>
+    <string name="Tusername_already_exists">Le nom d\'utilisateur existe déjà !</string>
+    <string name="Temail_already_exists">L\'adresse mail existe déjà !</string>
+    <string name="Tsuccesful_registration">Inscription réussie !</string>
+    <string name="Tregistration_failed">Echec de l\'inscription !</string>
+
+</resources>
